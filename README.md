@@ -52,19 +52,11 @@ This script is provided for educational purposes only. It may not detect all vul
 <h1 style="color:red">Remember!</h1>
  <p style="color:green; font-family:monospace;font-weight: bold"> This Project is on-going Project as of August 2024! <br>
      More features are to be added later </p>
-<footer >Jiren</footer>
-<style>
-footer {
-color:dodgerblue; 
+<footer style="color:dodgerblue; 
 font-weight:bold;font-size:24px; 
 text-align:center; 
 border:2px solid gold;
 width:20%; 
 margin:auto;
-border-radius:8px
-}
-footer:hover{
-   border:4px solid gold;
-}
+border-radius:8px">Jiren</footer>
 
-</style>
