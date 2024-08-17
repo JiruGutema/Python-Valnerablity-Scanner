@@ -49,14 +49,8 @@ The script will generate a text file named `vulnerability_report.txt` in the sam
 
 This script is provided for educational purposes only. It may not detect all vulnerabilities, and its results should not be considered definitive. Always consult official security documentation and best practices for thorough vulnerability assessments.
 
-<h1 color:red>Remember!</h1>
- <p style="color:green; font-family:monospace;font-weight: bold"> This Project is on-going Project as of August 2024! <br>
-     More features are to be added later </p>
-<footer color:dodgerblue; 
-font-weight:bold;font-size:24px; 
-text-align:center; 
-border:2px solid gold;
-width:20%; 
-margin:auto;
-border-radius:8px>Jiren</footer>
+# Remember!
+- **This Project is on-going Project as of August 2024! <br>
+     More features are to be added later**
+
 
